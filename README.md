@@ -1,0 +1,1 @@
+# Calculo-de-superficie-para-el-cultivo-de-platano-con-ayuda-de-imagenes-satelitales
